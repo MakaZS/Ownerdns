@@ -23,10 +23,10 @@ OwnerDNS 是一个开箱即用的私有网络解决方案，提供：
 ### 安装步骤
 ```bash
 # 下载安装脚本
-wget https://raw.githubusercontent.com/MakaZS/Ownerdns/main/install.sh
+wget https://raw.githubusercontent.com/MakaZS/Ownerdns/main/ownerdns.sh
 
 # 执行安装
-sudo bash install.sh
+sudo bash ownerdns.sh
 ```
 
 ### 网络拓扑
